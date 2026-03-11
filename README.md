@@ -1,6 +1,6 @@
 
 # Github-Markdown-Dio-Desafio
-Desafio proposto pela expert Aline Antunes para colocar em pratica todos os conteúdos aprendidos ate agora sobre git e github
+📚 Desafio da DIO para praticar Git, GitHub e Markdown.
 
 ## 📚 Desafio Principal
 > 💡 **Nota:** Embora o desafio seja focado em Markdown, a própria proposta incentiva a explorar melhorias.  
@@ -10,7 +10,7 @@ Desafio proposto pela expert Aline Antunes para colocar em pratica todos os cont
 <tr>
 <td>
 
-<img src="img001.jpg" width="400">
+<img src="src/img001.jpg" width="400">
 
 </td>
 <td>
@@ -58,3 +58,7 @@ git push
 git checkout -b nova-branch
 git merge 
 ```
+
+## 📚 Documentação
+
+- [Notas de Aprendizado](aprendizado.md)
