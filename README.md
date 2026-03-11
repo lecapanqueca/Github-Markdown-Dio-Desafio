@@ -61,4 +61,4 @@ git merge
 
 ## 📚 Documentação
 
-- [Notas de Aprendizado](aprendizado.md)
+- [Notas de Aprendizado](Aprendizado.md)
